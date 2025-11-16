@@ -46,7 +46,7 @@ python run.py
 
 ### Deployment
 
-1. **Set Secrets** in Replit:
+1. **Set Secrets** :
    - `SESSION_SECRET`: Random string for session security
    - `GRIEVANCE_DB_URL` (optional): Custom database URL (defaults to SQLite)
 

@@ -44,7 +44,7 @@ python run.py
 
 5. **Access the app**: http://localhost:5000
 
-### Replit Deployment
+### Deployment
 
 1. **Set Secrets** in Replit:
    - `SESSION_SECRET`: Random string for session security
